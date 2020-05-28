@@ -1,5 +1,8 @@
 # Machine-Learning-Detection-for-Depression
 
+•	A personal project that I began to build a program that can use machine learning algorithms to determine whether a person is in a state of depression
+•	Article that I used for inspiration and ideas: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6749518/
+
 Goal: Build a program that can use machine learning algorithms to determine whether a person is in a state of depression 
 Current state: Built an algorithm based on a collection of 20 “sad faces” to determine depression (however a challenge with what depression looks like), and its accuracy is around 50% even after adjusting the size of the images and the colour
 
